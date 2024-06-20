@@ -1,0 +1,183 @@
+[33mcommit a4c9d6b7faa1c2a8a25e768a2d2475c6b426dcc3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Andre Simiyu <andreewafula@gmail.com>
+Date:   Thu Jun 20 21:30:27 2024 +0300
+
+    Probability Calculation
+
+[33mcommit f8707677232b89eae1c4312ee384c7d209feadc6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: David Braslow <david.braslow@flatironschool.com>
+Date:   Mon Feb 24 12:33:28 2020 -0500
+
+    Merge pull request #1 from learn-co-curriculum/jeffs-branch
+    
+    Update instructions
+
+[33mcommit b206144239855bad8b18e848e9859f6950adbb39[m
+Author: Sumedh <sumedhpanchadhar@gmail.com>
+Date:   Fri Jan 31 17:12:00 2020 -0500
+
+    Merge pull request #1 from learn-co-curriculum/jeffs-branch
+    
+    Update instructions
+
+[33mcommit aa4e4952fe04a54ba0c41948310226041b5e579b[m
+Author: lmcm18 <40766726+lmcm18@users.noreply.github.com>
+Date:   Tue Oct 22 15:59:20 2019 -0400
+
+    fixed learning objectives; clarified some language in some questions
+
+[33mcommit 7cd04205dccddb19ec2f7cfb6e47f9680c2874cc[m
+Author: Matt Stetz <mattstetz@gmail.com>
+Date:   Tue Sep 24 09:24:41 2019 -0400
+
+    grammar
+
+[33mcommit 0a7a3093b9c4b5d698f71a3f20649ebd8a7294d6[m
+Author: Matt Stetz <matt.stetz@flatironschool.com>
+Date:   Mon Sep 9 18:04:41 2019 -0400
+
+    fix solution
+
+[33mcommit 0fcda119f3a023a6c3a17d5715a20b662609e259[m
+Author: Lore Dirick <loredirick@gmail.com>
+Date:   Tue Aug 6 14:58:58 2019 -0400
+
+     ALERT: Cell Mismatch. Auto-create curriculum branch from solution + master
+
+[33mcommit 1acb0e02f29be79c1f97153752dd55384ed2cc3a[m
+Author: Alex Griffith <alexalexgriffith@gmail.com>
+Date:   Mon Jul 8 12:33:14 2019 -0400
+
+    Fix markdown
+
+[33mcommit dde0d3b7ec6346c4f3d0c290014b2929e8f2be9e[m
+Author: Alex Griffith <alexalexgriffith@gmail.com>
+Date:   Mon Jul 8 12:25:44 2019 -0400
+
+    CO 340 Remove references to lecture
+
+[33mcommit bdf80fb2e7ce730ecba982dbe249950401a995d5[m
+Author: Lore Dirick <loredirick@gmail.com>
+Date:   Wed Mar 13 13:49:47 2019 -0400
+
+    final fix master
+
+[33mcommit 5361fb096235f9b3141d51bd8ab5cc7c2af369fe[m
+Author: Lore Dirick <loredirick@gmail.com>
+Date:   Wed Mar 13 13:41:06 2019 -0400
+
+    cells merged
+
+[33mcommit 2b5d1c0cf06fcafc7541c2ccbf4348106ea2edf9[m
+Author: Lore Dirick <loredirick@gmail.com>
+Date:   Wed Mar 13 13:31:58 2019 -0400
+
+    edit lab
+
+[33mcommit b88881d206db9e5dd7a54261d6345982c8e39718[m
+Author: matthew.mitchell <matt.mitchell@flatironschool.com>
+Date:   Tue Jan 29 10:49:54 2019 -0500
+
+    fixing typos and clarifying event space question
+
+[33mcommit 81a9eca7880cb253455077a190218b48771e6363[m
+Merge: 5ac9799 02e5b15
+Author: Peter Bell <PeterBell@users.noreply.github.com>
+Date:   Fri Oct 26 10:55:09 2018 -0600
+
+    Merge pull request #4 from sik-flow/master
+    
+    Update North America probability to be 0.079 to match the solution
+
+[33mcommit 02e5b153226e80ac50b80f934510eac13bef77f3[m
+Author: sik-flow <jherman1199@gmail.com>
+Date:   Fri Oct 26 10:30:12 2018 -0500
+
+    Update North America probability to be 0.079 to match the solution
+
+[33mcommit 5ac9799ad4e0569c1d2838f6fc1c912f1ba0bc67[m
+Merge: c7a4db7 3589faa
+Author: Terrance <terrancekoar@gmail.com>
+Date:   Tue Oct 16 15:33:33 2018 -0400
+
+    Merge pull request #1 from sik-flow/master
+    
+    Update instructions
+
+[33mcommit 3589faaf96d8ceb38f77bbf323de247b701333b7[m
+Author: sik-flow <jherman1199@gmail.com>
+Date:   Tue Oct 16 14:21:43 2018 -0500
+
+    Update instructions
+
+[33mcommit c7a4db731bc30b1ccaaf31ec339ae7edc9c98dd4[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Wed Oct 10 15:10:46 2018 -0600
+
+    Add gitignore
+
+[33mcommit 64383a2476a2e8793ca5429be0f3444860188ec0[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Wed Oct 10 15:10:21 2018 -0600
+
+    Rename file
+
+[33mcommit dd92e819a0d73766d1d19845d44414a0ad69a10e[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Wed Oct 10 15:10:10 2018 -0600
+
+    Rename file
+
+[33mcommit a0e1db12075f320cdf7c94fb2ac22f0b4bf3bd80[m
+Author: Peter Bell <peter@pbell.com>
+Date:   Wed Oct 10 15:09:57 2018 -0600
+
+    Remove files
+
+[33mcommit 1606041cd4f0915ec40214c6b0f27460de12d673[m
+Author: Lore Dirick <loredirick@gmail.com>
+Date:   Tue Oct 9 19:11:10 2018 -0400
+
+    Create .Resources
+
+[33mcommit 27ce251099cf50d7f96997a73bd68f40c1d0b6c6[m
+Author: Lore Dirick <loredirick@gmail.com>
+Date:   Tue Oct 9 19:10:31 2018 -0400
+
+    review done master
+
+[33mcommit 9a5ade3bbb957b6bff5a30a2041ea1dc211bd4ad[m
+Author: Lore Dirick <loredirick@gmail.com>
+Date:   Tue Oct 9 19:05:54 2018 -0400
+
+    review done master
+
+[33mcommit 83ccb2dc56a1644cef9d9e6f1ae369d3e08f0a81[m
+Author: Lore Dirick <loredirick@gmail.com>
+Date:   Wed Oct 3 19:54:31 2018 -0400
+
+    commit message
+
+[33mcommit 832da892129f278f458394f04c79340ec9e9fd5b[m
+Author: Lore Dirick <loredirick@gmail.com>
+Date:   Wed Oct 3 19:38:09 2018 -0400
+
+    lab
+
+[33mcommit 1014b12b179f5cda55269cb5b1798af113dd579d[m
+Author: Lore Dirick <loredirick@gmail.com>
+Date:   Wed Oct 3 18:14:39 2018 -0400
+
+    Create .learn
+
+[33mcommit c0c560c08c7162e4e1f040e0c1b19b904b96d419[m
+Author: Lore Dirick <loredirick@gmail.com>
+Date:   Mon Oct 1 15:41:09 2018 -0400
+
+    Update README.md
+
+[33mcommit 1a129b91893e7fb5d40296f0594011c39c372749[m
+Author: Lore Dirick <loredirick@gmail.com>
+Date:   Mon Oct 1 10:58:39 2018 -0400
+
+    Initial commit
